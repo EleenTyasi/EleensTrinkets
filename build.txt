@@ -1,0 +1,3 @@
+displayName = Eleen's Trinkets: Tradeoffs and Triumphs
+author = Eleen
+version = 1.6.2

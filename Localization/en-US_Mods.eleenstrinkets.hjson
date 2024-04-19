@@ -1,0 +1,414 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	genesisband: {
+		DisplayName: Genesis Band
+		Tooltip:
+			'''
+			A band embued with Genesis Energy.
+			[c/06C62B:+3% increased movement speed.]
+			[c/06C62B:+3 Life regeneration.]
+			[c/06C62B:+3 Mana regeneration.]
+			'''
+	}
+
+	plushiepaw: {
+		DisplayName: Plushie Paw
+		Tooltip:
+			'''
+			A paw embued with strength, at the cost of your critical hit chance.
+			[c/06C62B:+20% overall damage.]
+			[c/FF0000:-15% critical hit chance.]
+			'''
+	}
+
+	nrg: {
+		DisplayName: NrG
+		Tooltip:
+			'''
+			An energy drink banned in several extradimensional bubbles.
+			A certain Stickman has had a terrible time drinking it.
+			[c/FF0000:-10% Maximum life.]
+			[c/06C62B:+15% movement speed.]
+			'''
+	}
+
+	iskraband: {
+		DisplayName: Iskra Band
+		Tooltip:
+			'''
+			Counterpart to the Genesis Band, it's effects are amplified.
+			[c/06C62B:+8% Movement Speed.]
+			[c/06C62B:+8 Life Regeneration.]
+			[c/06C62B:+8 Mana Regeneration.]
+			'''
+	}
+
+	strategyguide: {
+		DisplayName: The Strategy Guide
+		Tooltip:
+			'''
+			Advice and tips that grant strength, but at a cost.
+			[c/FF0000:-25% Max Life.]
+			[c/06C62B:+25% Critical Hit Chance.]
+			[c/06C62B:+25% Damage dealt.]
+			'''
+	}
+
+	umbralorb: {
+		DisplayName: Umbral Orb
+		Tooltip:
+			'''
+			A glass orb embued with dark energy.
+			[c/7E29A0:Melee attacks engulf foes in Shadowflame.]
+			[c/06C62B:+11% Movement Speed.]
+			[c/06C62B:+3 Mana Regeneration.]
+			'''
+	}
+
+	astralorb: {
+		DisplayName: Astral Orb
+		Tooltip:
+			'''
+			A orb blessed with Astral magic.
+			[c/06C62B:+7% Movement Speed.]
+			[c/06C62B:+4 Defense]
+			[c/06C62B:+3 Life Regeneration]
+			[c/06C62B:+7% Summon Damage]
+			[c/06C62B:+7% Summoner Melee Attack Speed]
+			[c/06C62B:+2 Minion slots.]
+			'''
+	}
+
+	dimiandaraseal: {
+		DisplayName: Dimiandara Seal
+		Tooltip:
+			'''
+			A seal made by a kitsune's magical essence.
+			[c/FF0000:-20% Damage dealt.]
+			[c/06C62B:+30% Critical Hit Chance.]
+			[c/06C62B:+3 Defense.]
+			'''
+	}
+
+	merainiotoxinvial: {
+		DisplayName: Merainio Toxin Vial
+		Tooltip:
+			'''
+			A toxin that reduces mental capacity, but enhances physical capability.
+			[c/FF0000:-12% Magic Damage and +12% mana cost.]
+			[c/FF0000:-50% Mana.]
+			[c/06C62B:+12% Melee and Ranged Damage.]
+			[c/06C62B:+80% Max Life.]
+			[c/06C62B: +12% Melee Attack Speed.]
+			[c/7E29A0: You have a 75% chance to not consume ammo.]
+			'''
+	}
+
+	hurioncoil: {
+		DisplayName: Hurion Coil
+		Tooltip:
+			'''
+			A living spring, coiled around a steel metal staff.
+			[c/06C62B:+2.5% Jump Speed]
+			[c/7E29A0:The wielder of the accessory never takes fall damage.]
+			[c/7E29A0:Allows the user to swim in water.]
+			[c/7E29A0:Grants a second jump that flies far.]
+			[c/7E29A0:The second jump is fast, and is extended by holding jump.]
+			'''
+	}
+
+	aquaveil: {
+		DisplayName: Aquaveil
+		Tooltip:
+			'''
+			A protective, water aspected spell inscribed on a silver coin.
+			[c/06C62B:+6% Magic damage]
+			[c/06C62B:+5 Defense]
+			[c/06C62B:+20 Max Mana]
+			'''
+	}
+
+	esthrainiotoxinvial: {
+		DisplayName: Esthrainio Toxin Vial
+		Tooltip:
+			'''
+			A toxin that reduces physical capacity, but enhances mental capability.
+			[c/FF0000:-12% Melee Damage.]
+			[c/FF0000:-12% Melee Attack Speed.]
+			[c/FF0000:-50% Max Life.]
+			[c/06C62B:+50% Max Mana.]
+			[c/06C62B:+12% Ranged Damage.]
+			[c/06C62B:+12% Magic Damage.]
+			[c/06C62B:-12% Mana Cost.]
+			[c/7E29A0:You have a 75% chance to not consume ammo.]
+			'''
+	}
+
+	massrock: {
+		DisplayName: Mass Rock
+		Tooltip:
+			'''
+			A stone that raises the mass of the wearer,increasing their vitality.
+			[c/FF0000:-25% Move Speed]
+			[c/06C62B:+35% Maximum Life]
+			'''
+	}
+
+	protectglyph: {
+		DisplayName: Protect Glyph
+		Tooltip:
+			'''
+			A glyph that protects you from harm. It raises your critical hit chance by a small amount.
+			[c/06C62B:+5% Critical Hit Chance]
+			[c/06C62B:+9 Defense]
+			'''
+	}
+
+	regrowbloon: {
+		DisplayName: Pink Regrow Bloon
+		Tooltip:
+			'''
+			A rubbery item embued with regenerative and speed enhancing properties.
+			It's presence causes you to feel more fragile.
+			[c/06C62B:+20 Life Regeneration]
+			[c/06C62B:+12% Movespeed]
+			[c/FF0000:-50% Max Life]
+			'''
+	}
+
+	terainiotoxinvial: {
+		DisplayName: Terainio Toxin Vial
+		Tooltip:
+			'''
+			A toxin that inhibits the accuracy of ranged attacks, but enhances mental and physical capability.
+			[c/FF0000:-12% Ranged Attack Speed and Damage.]
+			[c/06C62B:+50% Max Life and Mana.]
+			[c/06C62B:+6% Magic Damage.]
+			[c/06C62B:-6% Mana Cost.]
+			[c/06C62B:+6% Melee damage.]
+			[c/06C62B:+6% Melee Attack Speed.]
+			'''
+	}
+
+	deseiumcapsule: {
+		DisplayName: Desium Capsule
+		Tooltip:
+			'''
+			A capsule of a mysterious liquid. It oddly affects your accuracy.
+			Material.
+			[c/FF0000:-6% Ranged Damage.]
+			[c/FF0000:-6% Ranged Attack Speed.]
+			[c/06C62B:+15% Maximum Life and Mana.]
+			[c/06C62B:+3% Magic Damage.]
+			[c/06C62B:+3% Melee Damage.]
+			[c/06C62B:-3% Mana Cost.]
+			[c/06C62B:+3% Melee Attack Speed.]
+			'''
+	}
+
+	erisumcapsule: {
+		DisplayName: Erisum Capsule
+		Tooltip:
+			'''
+			A capsule of a mysterious liquid. It oddly affects your strength.
+			Material.
+			[c/FF0000:-6% Melee Damage.]
+			[c/FF0000:-6% Melee Attack Speed.]
+			[c/FF0000:-10% Max Life]
+			[c/06C62B:+10% Max Mana.]
+			[c/06C62B:+6% Ranged Damage.]
+			[c/06C62B:+6% Magic Damage.]
+			[c/06C62B:+6% Ranged Attack Speed.]
+			[c/06C62B:-6% Mana Cost.]
+			'''
+	}
+
+	liarslyre: {
+		DisplayName: Liars Lyre
+		Tooltip:
+			'''
+			A bardic tool that enhances magic and ranged damage. It's a pain in the ass to play!
+			[c/06C62B:+15% Magical and Ranged Damage.]
+			[c/06C62B:-15% Mana cost.]
+			[c/06C62B:+30% Ranged Attack Speed.]
+			[c/7E29A0:You have an 80% chance to not consume ammo.]
+			'''
+	}
+
+	misiumcapsule: {
+		DisplayName: Misium Capsule
+		Tooltip:
+			'''
+			A capsule of a mysterious liquid. It oddly affects your magic.
+			Material.
+			[c/FF0000:-6% Magic damage.]
+			[c/FF0000:+6% Mana Cost.]
+			[c/FF0000:-10% Max Mana.]
+			[c/06C62B:+10% Max Life.]
+			[c/06C62B:+6% Ranged Damage.]
+			[c/06C62B:+6% Ranged Attack Speed.]
+			[c/06C62B:+6% Melee Damage.]
+			[c/06C62B:+6% Melee Attack Speed.]
+			'''
+	}
+
+	abberantlightshard: {
+		DisplayName: Abberant Light Shard
+		Tooltip:
+			'''
+			A shard of crystalized mana given sapience.
+			[c/06C62B:+35% Magical Damage and -35% Mana Cost.]
+			[c/FF0000:-75% Melee and Ranged Damage and Attack Speed.]
+			'''
+	}
+
+	bearboon: {
+		DisplayName: Bear's Boon
+		Tooltip:
+			'''
+			An empty segment of Honeycomb. In this game, you don't need to collect eight to
+			increase your maximum life with it.
+			[c/06C62B:+10% Maximum Life.]
+			'''
+	}
+
+	bluepuyo: {
+		DisplayName: Blue Puyo
+		Tooltip:
+			'''
+			A blob of blue gel. It looks so sad...
+			[c/06C62B:+12% Magical Damage and Critical hit chance.]
+			[c/06C62B:+3 Mana Regeneration.]
+			'''
+	}
+
+	fastforwardtimegem: {
+		DisplayName: Fast Forward Timegem
+		Tooltip:
+			'''
+			A gem that allows you to fast forward time. 
+			A certain cat uses this to move time faster.
+			[c/06C62B:+35% Ranged Damage.]
+			[c/06C62B:+4 Ranged Damage Armor Penetration.]
+			'''
+	}
+
+	greenpuyo: {
+		DisplayName: Green Puyo
+		Tooltip:
+			'''
+			A blob of Green Gel. It smells like mint.
+			[c/06C62B:+12% Ranged Damage and Critical hit chance.]
+			'''
+	}
+
+	ionorb: {
+		DisplayName: Ion Orb
+		Tooltip:
+			'''
+			      A orb that is charged with electricity. It empowers your summoning abilities.
+			[c/06C62B:+12% Summon Damage.]
+			[c/06C62B:+3 Minion slots.]
+			[c/06C62B:+6% Summoner Melee Attack Speed.]
+			'''
+	}
+
+	irateicosohedron: {
+		DisplayName: Irate Icosohedron
+		Tooltip:
+			'''
+			A 20 Sided die infused with the rage of a thousand pissed-off nerds.
+			[c/06C62B:+35% Melee Damage and Attack Speed.]
+			[c/FF0000:-75% Ranged and Magical Damage]
+			[c/FF0000:+75% Mana Cost.]
+			[c/FF0000:-75% Ranged attack speed.]
+			'''
+	}
+
+	kookcloak: {
+		DisplayName: Kook's Cloak
+		Tooltip:
+			'''
+			A red and gold cloak that has gadgets hidden in it's inside pockets.
+			A certain Bean person uses this as a fashion statement.
+			[c/06C62B:+35% Ranged Damage and Armor Pierce.]
+			[c/FF0000:-75% Magic Damage.]
+			[c/FF0000:-75% Melee Damage.]
+			[c/FF0000:-75% Extra Knockback dealt from Melee.]
+			[c/FF0000:+75% Mana Cost.]
+			'''
+	}
+
+	miniglobo: {
+		DisplayName: Mini Globo
+		Tooltip:
+			'''
+			A smaller, chibi-style version of the Globo.
+			A certain skeleton and a bear would love this.
+			[c/06C62B:+15% Maximum Mana.]
+			[c/06C62B:+3% Magic Damage and Critical Hit Chance.]
+			'''
+	}
+
+	nolegsbadge: {
+		DisplayName: NoLegs Badge
+		Tooltip:
+			'''
+			A badge that appears to be shaped like a cat's head.
+			A certain RPG protagonist would love this.
+			[c/06C62B:+15% Movement Speed.]
+			[c/06C62B:+15% Critical Hit chance.]
+			'''
+	}
+
+	nuisancepuyo: {
+		DisplayName: Nuisance Puyo
+		Tooltip:
+			'''
+			A clear, useless blob of gel. It's a nuisance to carry around.
+			Maybe you can find a way to make it colorful?
+			Material.
+			'''
+	}
+
+	purplepuyo: {
+		DisplayName: Purple Puyo
+		Tooltip:
+			'''
+			A blob of Purple gel. It feels strange in your hands.
+			[c/06C62B:+12% Summon Damage]
+			[c/06C62B:+2 Minion Slots]
+			'''
+	}
+
+	redpuyo: {
+		DisplayName: Red Puyo
+		Tooltip:
+			'''
+			A blob of red gel. It looks like it's angry, and it's heat is noticeable and unpleasant.
+			[c/06C62B:+11% Movement Speed.]
+			[c/7E29A0:Attacks cause enemies to light ablaze, dealing bonus damage over time.]
+			'''
+	}
+
+	stardustkitty: {
+		DisplayName: Stardust Kitty
+		Tooltip:
+			'''
+			A cat conjured from stardust and magic. It glows softly with purple light.
+			A certain cat witch is very familiar with them.
+			[c/06C62B:+15% Magical Damage and Critical Hit Chance.]
+			'''
+	}
+
+	yellowpuyo: {
+		DisplayName: Yellow Puyo
+		Tooltip:
+			'''
+			A blob of Yellow gel. It has a happy, cheerful face!
+			It's so cute!
+			[c/06C62B:+12% Melee Damage and Critical hit chance.]
+			'''
+	}
+}
