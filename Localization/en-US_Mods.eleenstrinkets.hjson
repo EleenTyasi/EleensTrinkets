@@ -415,12 +415,12 @@ Items: {
 	catwitchbonnet: {
 		DisplayName: Cat Witch's Bonnet
 		Tooltip:
-		'''
+			'''
 			A soft purple hat, infused with Stardust Magic.
 			Worn by a heroic cat witch! (Also Play Downpurr!)
 			[c/06C62B:+15% Magical Damage.]
 			[c/06C62B:-10% Mana Cost.]
 			[c/06C62B:+15% Maximum Mana.]
-		'''
+			'''
 	}
 }
