@@ -397,7 +397,7 @@ Items: {
 		Tooltip:
 			'''
 			A cat conjured from stardust and magic. It glows softly with purple light.
-			A certain cat witch is very familiar with them.
+			A certain cat witch is very familiar with them. (Also Play Downpurr!)
 			[c/06C62B:+15% Magical Damage and Critical Hit Chance.]
 			'''
 	}
@@ -410,5 +410,17 @@ Items: {
 			It's so cute!
 			[c/06C62B:+12% Melee Damage and Critical hit chance.]
 			'''
+	}
+
+	catwitchbonnet: {
+		DisplayName: Cat Witch's Bonnet
+		Tooltip:
+		'''
+			A soft purple hat, infused with Stardust Magic.
+			Worn by a heroic cat witch! (Also Play Downpurr!)
+			[c/06C62B:+15% Magical Damage.]
+			[c/06C62B:-10% Mana Cost.]
+			[c/06C62B:+15% Maximum Mana.]
+		'''
 	}
 }

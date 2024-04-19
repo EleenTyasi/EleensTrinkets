@@ -30,7 +30,10 @@ namespace eleenstrinkets.Items
             Item.rare = 4;
             Item.accessory = true;
         }
-        // Update the accessory to 
+        // Update the accessory. 
+
+        // Eleen, you bitch. Why only two stats?
+        // me: haha funny.
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
             player.GetDamage(DamageClass.Magic) += 0.15f;

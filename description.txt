@@ -11,7 +11,6 @@ Well, Eleen's Trinkets: Tradeoffs and Triumphs is here!
 
 I found that there wasn't very many accessories that have upsides and downsides, so I decided to make some!
 These accessories are meant to aid in high-difficulty packs, but also provide a fair and balanced way of getting a little silly with things.
-
 These accessories are also, typically available before hardmode! It's also likely that it won't match Terraria's Art style, as all accessories are made by hand. 
 
 Plus, All accessories are craftable using vanilla materials! 
@@ -35,27 +34,28 @@ I highly reccomend the three toxin vials! They add benefits for playing multiple
 	- maybe suggest stats, and maybe you'll see it.
 If you have any suggestions, please let me know! I'm always looking for new ideas!
 (Suggestions may get added in future updates; strong preferences for options that are references to other games!)
-
 CHALLENGE: First person to Beat Legendary Mode while using the accessories that lower your maximum life, and provide visual proof to get an accessory you have a concept for added into the mod! (I've heard that the minimum life you can have is a whopping 27. Good luck.)
-
-
 Big thanks to the TML Discord for helpin' me with understanding how to code in feckin' C#!
 
 Future updates may include more accessories. It may lean further into going into hardmode, Or maybe adding compatibility with Calamity. I started work on this mod two days ago. (as of November 2023; it's a long while ago now) I LEARNED C#. TO MAKE. THIS. MOD. 
 I encourage you to take this mod's balance as... questionable. It's not meant to be taken terribly seriously, but it's not a joke mod either. It provides a niche that I wanted to press onto. 
 Once I get more of a handle on how to make mods, there might be bosses or ores ; but for now, I'm just gonna stick to accessories.
 
-
-If you wanna help with this mod, lemme know! I'll make it open source. 
-I'm the only one working on it, so for now it's closed source. (fully intend on making it O.S so if i got trouble i can have help)
-
+Source Code: 
+https://github.com/EleenTyasi/EleensTrinkets
+Made with Love and Sheer Bisexual Tension by Eleen.
 
 CHANGE LOG:
-1.6.2: Livestreamed Repair Update - March 2024 
-	 - So, there was some bugs that I fixed live on stream. 
-	 - I went to the Bugs and Issues thread; and started a bug murder spree. 
-	 - I also, rebalanced the Hurion Coil.
-	 - Full Changelog: https://pastebin.com/zhm1Q6j1
+1.8.0: Armor Experiment 1 - The Cat Witch Bonnet!
+    - Added the Cat Witch Bonnet
+      - Added the Cat Witch Bonnet's recipe
+	  - CWB is a Downpurr reference. 
+	  - It uses the Stardust Kitty as a material.
+	  - It's NOT AN ACCESSORY!? 
+	  - It's a hat that buffs magic.
+	- Updated Mod Icon. Hi! It's close up.
+	- Updated Localization file.
+	- It's Open Source. Finally. (everything is HERE!)
 CREDITS:
 Eleen: Pretty much everything.
 Intersloth: Henry Stickmin, Concept for the "nRG" accessory.
