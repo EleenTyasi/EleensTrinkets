@@ -423,4 +423,19 @@ Items: {
 			[c/06C62B:+15% Maximum Mana.]
 			'''
 	}
+
+	magebubblestaff: {
+		DisplayName: magebubblestaff
+		Tooltip: ""
+	}
+
+	magebubblestaffm2: {
+		DisplayName: magebubblestaffm2
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	magebubble.DisplayName: magebubble
+	magebubble2.DisplayName: magebubble2
 }
