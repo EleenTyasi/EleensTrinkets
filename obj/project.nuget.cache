@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T4N8WwLUS1AOKFZ9x0pVJBj40AWMrn7yTQVhDaxGeosly6YHadx/EZhLpmHYxh0xckyBWtqQvlXhYq2ihGG32A==",
+  "dgSpecHash": "UCLpUIdb0AA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\eleenstrinkets.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Mario\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -11,8 +11,6 @@ namespace eleenstrinkets.Items
   public class greenpuyo : ModItem
     {
         // By declaring these here, changing the values will alter the effect, and the tooltip
-        public static readonly int manaRegen = 3;
-        public static readonly int moveSpeed = 11;
         // Insert the modifier values into the tooltip localization. More info on this approach can be found on the wiki: https://github.com/tModLoader/tModLoader/wiki/Localization#binding-values-to-localizations
         public override void AddRecipes()
         {
@@ -33,7 +31,7 @@ namespace eleenstrinkets.Items
 
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
-            player.GetDamage(DamageClass.Ranged) += 0.12f;
+            player.GetDamage(DamageClass.Ranged) += 12.0f;
             player.GetCritChance(DamageClass.Ranged) += 12.0f;
         }
     }

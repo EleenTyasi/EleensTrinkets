@@ -11,8 +11,6 @@ namespace eleenstrinkets.Items
   public class bluepuyo : ModItem
     {
         // By declaring these here, changing the values will alter the effect, and the tooltip
-        public static readonly int manaRegen = 3;
-        public static readonly int moveSpeed = 11;
         // Insert the modifier values into the tooltip localization. More info on this approach can be found on the wiki: https://github.com/tModLoader/tModLoader/wiki/Localization#binding-values-to-localizations
         public override void AddRecipes()
         { // OK, this kinda works. Good.
@@ -33,8 +31,8 @@ namespace eleenstrinkets.Items
 
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
-            player.GetDamage(DamageClass.Magic) += 0.12f; // works.
-            player.GetCritChance(DamageClass.Magic) += 12.0f; // only .12%?? what the fuck?
+            player.GetDamage(DamageClass.Magic) += 0.12f; // *insert annoyed grunt* OKAY. Apparently, it's increasing MD by 1200%???
+            player.GetCritChance(DamageClass.Magic) += 12.0f; // works
             player.manaRegen += 6; // i swear to god, why are all the regen ones broken?
         }
     }

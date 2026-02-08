@@ -13,7 +13,7 @@ namespace eleenstrinkets.Items.weapons
         public override void SetDefaults()
         {
 
-            Item.DefaultToStaff(ModContent.ProjectileType<magebubble>(), 10, 13, 3); // fuck YOU, c+.
+            Item.DefaultToStaff(ModContent.ProjectileType<magebubble>(), 10, 13, 3); // fuck YOU, c#.
             Item.width = 34;
             Item.height = 40;
             Item.UseSound = SoundID.Item71;
@@ -23,7 +23,6 @@ namespace eleenstrinkets.Items.weapons
             Item.SetShopValues(ItemRarityColor.LightRed4, 10000);
         }
 
-        // Please see Content/ExampleRecipes.cs for a detailed explanation of recipe creation.
         public override void AddRecipes()
         {
             CreateRecipe()

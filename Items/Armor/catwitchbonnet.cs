@@ -30,7 +30,7 @@ namespace eleenstrinkets.Items.Armor // HAHA! fuck YOU!!!
 			Item.height = 18; // Height of the item
 			Item.value = Item.sellPrice(platinum:1,gold: 6); // How many coins the item is worth
 			Item.rare = ItemRarityID.Red; // The rarity of the item
-			Item.defense = 20; // The amount of defense the item will give when equipped
+			Item.defense = 10; // The amount of defense the item will give when equipped
 		}
 
 		// UpdateArmorSet is fucken useless.
@@ -38,7 +38,7 @@ namespace eleenstrinkets.Items.Armor // HAHA! fuck YOU!!!
 
 		// So we use UpdateEquip instead!
 		public override void UpdateEquip(Player player) {
-			player.GetDamage(DamageClass.Magic) += 15 / 100f; // Increase dealt damage for all weapon classes by 20%
+			player.GetDamage(DamageClass.Magic) += 15 / 100f; // Increase dealt damage for Magic weapon classes by 15%
 			player.statManaMax2 += (int)(player.statManaMax2 * maxMana); // Increase max mana by 15%
 			player.manaCost -= 0.10f; // mana cost reducing cat hat, bitch!
 		}
@@ -50,7 +50,7 @@ namespace eleenstrinkets.Items.Armor // HAHA! fuck YOU!!!
 				.AddIngredient(ModContent.ItemType<stardustkitty>(), 1) // Stardust Kitty: Accessory. 
 				.AddIngredient(ItemID.Silk, 15) // Crafting Material
 				.AddIngredient(ItemID.WhiteString, 3) // Crafting Material
-				.AddTile(TileID.HeavyWorkBench) // because fuck hand crafting
+				.AddTile(TileID.MythrilAnvil) // because fuck hand crafting
 				.Register();
 		}
 	}

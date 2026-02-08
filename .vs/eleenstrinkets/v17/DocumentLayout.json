@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\liarslyre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\liarslyre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\localization\\en-us_mods.eleenstrinkets.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:localization\\en-us_mods.eleenstrinkets.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\protectglyph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\protectglyph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\abberantlightshard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\abberantlightshard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\nrg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\nrg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\plushiepaw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\plushiepaw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\aquaveil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\aquaveil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\regrowbloon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\regrowbloon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\bearboon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\bearboon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\rapperrepose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\rapperrepose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\greenpuyo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\greenpuyo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\astralorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\astralorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\armor\\catwitchbonnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\armor\\catwitchbonnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\tiles\\essencesmither.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:tiles\\essencesmither.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\genesisband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\genesisband.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\irateicosohedron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\irateicosohedron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\massrock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\massrock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\purplepuyo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\purplepuyo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\merainiotoxinvial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\merainiotoxinvial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\bluepuyo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\bluepuyo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\eggiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\eggiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\dandaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\dandaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "abberantlightshard.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\abberantlightshard.cs",
+              "RelativeDocumentMoniker": "Items\\abberantlightshard.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\abberantlightshard.cs",
+              "RelativeToolTip": "Items\\abberantlightshard.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T01:06:24.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "en-US_Mods.eleenstrinkets.hjson",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Localization\\en-US_Mods.eleenstrinkets.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US_Mods.eleenstrinkets.hjson",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Localization\\en-US_Mods.eleenstrinkets.hjson",
+              "RelativeToolTip": "Localization\\en-US_Mods.eleenstrinkets.hjson",
+              "ViewState": "AgIAALoBAAAAAAAAAAAAANQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-20T17:23:25.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "essencesmither.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\tiles\\essencesmither.cs",
+              "RelativeDocumentMoniker": "tiles\\essencesmither.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\tiles\\essencesmither.cs",
+              "RelativeToolTip": "tiles\\essencesmither.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:47:41.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "catwitchbonnet.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\Armor\\catwitchbonnet.cs",
+              "RelativeDocumentMoniker": "Items\\Armor\\catwitchbonnet.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\Armor\\catwitchbonnet.cs",
+              "RelativeToolTip": "Items\\Armor\\catwitchbonnet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T21:54:07.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "rapperrepose.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\rapperrepose.cs",
+              "RelativeDocumentMoniker": "Items\\rapperrepose.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\rapperrepose.cs",
+              "RelativeToolTip": "Items\\rapperrepose.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:20:44.476Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "liarslyre.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\liarslyre.cs",
+              "RelativeDocumentMoniker": "Items\\liarslyre.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\liarslyre.cs",
+              "RelativeToolTip": "Items\\liarslyre.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T01:15:45.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "protectglyph.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\protectglyph.cs",
+              "RelativeDocumentMoniker": "Items\\protectglyph.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\protectglyph.cs",
+              "RelativeToolTip": "Items\\protectglyph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T01:14:04.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "plushiepaw.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\plushiepaw.cs",
+              "RelativeDocumentMoniker": "Items\\plushiepaw.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\plushiepaw.cs",
+              "RelativeToolTip": "Items\\plushiepaw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T01:13:39.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nrg.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\nrg.cs",
+              "RelativeDocumentMoniker": "Items\\nrg.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\nrg.cs",
+              "RelativeToolTip": "Items\\nrg.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T01:12:56.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "regrowbloon.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\regrowbloon.cs",
+              "RelativeDocumentMoniker": "Items\\regrowbloon.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\regrowbloon.cs",
+              "RelativeToolTip": "Items\\regrowbloon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T01:09:56.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bearboon.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\bearboon.cs",
+              "RelativeDocumentMoniker": "Items\\bearboon.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\bearboon.cs",
+              "RelativeToolTip": "Items\\bearboon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T01:06:56.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "greenpuyo.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\greenpuyo.cs",
+              "RelativeDocumentMoniker": "Items\\greenpuyo.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\greenpuyo.cs",
+              "RelativeToolTip": "Items\\greenpuyo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:17:01.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "astralorb.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\astralorb.cs",
+              "RelativeDocumentMoniker": "Items\\astralorb.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\astralorb.cs",
+              "RelativeToolTip": "Items\\astralorb.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:17:05.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "aquaveil.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\aquaveil.cs",
+              "RelativeDocumentMoniker": "Items\\aquaveil.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\aquaveil.cs",
+              "RelativeToolTip": "Items\\aquaveil.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:17:07.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "build.txt",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\build.txt",
+              "RelativeDocumentMoniker": "build.txt",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\build.txt",
+              "RelativeToolTip": "build.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-24T04:26:15.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "genesisband.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\genesisband.cs",
+              "RelativeDocumentMoniker": "Items\\genesisband.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\genesisband.cs",
+              "RelativeToolTip": "Items\\genesisband.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:16:59.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "irateicosohedron.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\irateicosohedron.cs",
+              "RelativeDocumentMoniker": "Items\\irateicosohedron.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\irateicosohedron.cs",
+              "RelativeToolTip": "Items\\irateicosohedron.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:16:52.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "massrock.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\massrock.cs",
+              "RelativeDocumentMoniker": "Items\\massrock.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\massrock.cs",
+              "RelativeToolTip": "Items\\massrock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:16:47.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "merainiotoxinvial.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\merainiotoxinvial.cs",
+              "RelativeDocumentMoniker": "Items\\merainiotoxinvial.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\merainiotoxinvial.cs",
+              "RelativeToolTip": "Items\\merainiotoxinvial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:49:13.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bluepuyo.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\bluepuyo.cs",
+              "RelativeDocumentMoniker": "Items\\bluepuyo.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\bluepuyo.cs",
+              "RelativeToolTip": "Items\\bluepuyo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T22:43:34.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "purplepuyo.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\purplepuyo.cs",
+              "RelativeDocumentMoniker": "Items\\purplepuyo.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\purplepuyo.cs",
+              "RelativeToolTip": "Items\\purplepuyo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:47:57.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "eggiri.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\eggiri.cs",
+              "RelativeDocumentMoniker": "Items\\eggiri.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\eggiri.cs",
+              "RelativeToolTip": "Items\\eggiri.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T03:45:46.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dandaid.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\dandaid.cs",
+              "RelativeDocumentMoniker": "Items\\dandaid.cs",
+              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\dandaid.cs",
+              "RelativeToolTip": "Items\\dandaid.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:37:48.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

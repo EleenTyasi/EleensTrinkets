@@ -32,7 +32,7 @@ namespace eleenstrinkets.Items
         // Update the accessory to 
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
-            player.GetDamage(DamageClass.Generic) -= 0.20f; // ??? this is supposed to reduce damage by 20%; not by only .2%???
+            player.GetDamage(DamageClass.Generic) -= 2.0f; // ??? this is supposed to reduce damage by 20%; not by only .2%???
             player.GetCritChance(DamageClass.Generic) += 30.0f; // meant to be 30%; not .3% T-T;
             player.statDefense += 3; // the only stat that works...
 

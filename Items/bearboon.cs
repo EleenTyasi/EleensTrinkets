@@ -9,7 +9,7 @@ namespace eleenstrinkets.Items
     public class bearboon : ModItem
     {
         // By declaring these here, changing the values will alter the effect, and the tooltip
-        public static readonly float maxLife = 0.10f;
+        public static readonly float maxLife = 0.05f;
         // Insert the modifier values into the tooltip localization. More info on this approach can be found on the wiki: https://github.com/tModLoader/tModLoader/wiki/Localization#binding-values-to-localizations
         public override void AddRecipes()
         {
@@ -31,7 +31,8 @@ namespace eleenstrinkets.Items
         // Update the accessory to 
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
-            player.statLifeMax2 += (int)(player.statLifeMax2 * maxLife); // butt ugly hack; will fix never. 
+            player.statLifeMax2 += (int)(player.statLifeMax2 * maxLife); // butt ugly hack; will fix never.
+            player.statDefense += 2;
         }
 
     }

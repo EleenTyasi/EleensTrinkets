@@ -27,8 +27,8 @@ namespace eleenstrinkets.Items
         // Update the accessory to 
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
-            player.statDefense += 9;
-            player.GetCritChance(DamageClass.Generic) += 5f;
+            player.statDefense += 4;
+            player.GetCritChance(DamageClass.Generic) += 0.10f;
         }
 
     }

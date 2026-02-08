@@ -28,8 +28,8 @@ Items: {
 			'''
 			An energy drink banned in several extradimensional bubbles.
 			A certain Stickman has had a terrible time drinking it.
-			[c/FF0000:-10% Maximum life.]
-			[c/06C62B:+15% movement speed.]
+			[c/FF0000:-15% Maximum life.]
+			[c/06C62B:+20% movement speed.]
 			'''
 	}
 
@@ -96,8 +96,7 @@ Items: {
 		Tooltip:
 			'''
 			A toxin that reduces mental capacity, but enhances physical capability.
-			[c/FF0000:-12% Magic Damage and +12% mana cost.]
-			[c/FF0000:-50% Mana.]
+			[c/FF0000:-12% Magic Power.]
 			[c/06C62B:+12% Melee and Ranged Damage.]
 			[c/06C62B:+80% Max Life.]
 			[c/06C62B: +12% Melee Attack Speed.]
@@ -124,7 +123,7 @@ Items: {
 			'''
 			A protective, water aspected spell inscribed on a silver coin.
 			[c/06C62B:+6% Magic damage]
-			[c/06C62B:+5 Defense]
+			[c/06C62B:+3 Defense]
 			[c/06C62B:+20 Max Mana]
 			'''
 	}
@@ -134,8 +133,7 @@ Items: {
 		Tooltip:
 			'''
 			A toxin that reduces physical capacity, but enhances mental capability.
-			[c/FF0000:-12% Melee Damage.]
-			[c/FF0000:-12% Melee Attack Speed.]
+			[c/FF0000:-12% Melee Power.]
 			[c/FF0000:-50% Max Life.]
 			[c/06C62B:+50% Max Mana.]
 			[c/06C62B:+12% Ranged Damage.]
@@ -160,8 +158,8 @@ Items: {
 		Tooltip:
 			'''
 			A glyph that protects you from harm. It raises your critical hit chance by a small amount.
-			[c/06C62B:+5% Critical Hit Chance]
-			[c/06C62B:+9 Defense]
+			[c/06C62B:+10% Critical Hit Chance]
+			[c/06C62B:+4 Defense]
 			'''
 	}
 
@@ -171,9 +169,9 @@ Items: {
 			'''
 			A rubbery item embued with regenerative and speed enhancing properties.
 			It's presence causes you to feel more fragile.
-			[c/06C62B:+20 Life Regeneration]
+			[c/06C62B:+10 Life Regeneration]
 			[c/06C62B:+12% Movespeed]
-			[c/FF0000:-50% Max Life]
+			[c/FF0000:-25% Max Life]
 			'''
 	}
 
@@ -182,7 +180,7 @@ Items: {
 		Tooltip:
 			'''
 			A toxin that inhibits the accuracy of ranged attacks, but enhances mental and physical capability.
-			[c/FF0000:-12% Ranged Attack Speed and Damage.]
+			[c/FF0000:-12% Ranged Power.]
 			[c/06C62B:+50% Max Life and Mana.]
 			[c/06C62B:+6% Magic Damage.]
 			[c/06C62B:-6% Mana Cost.]
@@ -197,8 +195,7 @@ Items: {
 			'''
 			A capsule of a mysterious liquid. It oddly affects your accuracy.
 			Material.
-			[c/FF0000:-6% Ranged Damage.]
-			[c/FF0000:-6% Ranged Attack Speed.]
+			[c/FF0000:-6% Ranged Power.]
 			[c/06C62B:+15% Maximum Life and Mana.]
 			[c/06C62B:+3% Magic Damage.]
 			[c/06C62B:+3% Melee Damage.]
@@ -213,8 +210,7 @@ Items: {
 			'''
 			A capsule of a mysterious liquid. It oddly affects your strength.
 			Material.
-			[c/FF0000:-6% Melee Damage.]
-			[c/FF0000:-6% Melee Attack Speed.]
+			[c/FF0000:-6% Melee Power.]
 			[c/FF0000:-10% Max Life]
 			[c/06C62B:+10% Max Mana.]
 			[c/06C62B:+6% Ranged Damage.]
@@ -229,8 +225,8 @@ Items: {
 		Tooltip:
 			'''
 			A bardic tool that enhances magic and ranged damage. It's a pain in the ass to play!
-			[c/06C62B:+15% Magical and Ranged Damage.]
-			[c/06C62B:-15% Mana cost.]
+			[c/06C62B:+5% Magical and Ranged Damage.]
+			[c/06C62B:-20% Mana cost.]
 			[c/06C62B:+30% Ranged Attack Speed.]
 			[c/7E29A0:You have an 80% chance to not consume ammo.]
 			'''
@@ -242,9 +238,7 @@ Items: {
 			'''
 			A capsule of a mysterious liquid. It oddly affects your magic.
 			Material.
-			[c/FF0000:-6% Magic damage.]
-			[c/FF0000:+6% Mana Cost.]
-			[c/FF0000:-10% Max Mana.]
+			[c/FF0000:-6% Magic Power]
 			[c/06C62B:+10% Max Life.]
 			[c/06C62B:+6% Ranged Damage.]
 			[c/06C62B:+6% Ranged Attack Speed.]
@@ -269,7 +263,8 @@ Items: {
 			'''
 			An empty segment of Honeycomb. In this game, you don't need to collect eight to
 			increase your maximum life with it.
-			[c/06C62B:+10% Maximum Life.]
+			[c/06C62B:+5% Maximum Life.]
+			[c/06C62B:+2 Defense]
 			'''
 	}
 
@@ -425,13 +420,68 @@ Items: {
 	}
 
 	magebubblestaff: {
-		DisplayName: magebubblestaff
-		Tooltip: ""
+		DisplayName: Mage Bubble Staff
+		Tooltip:
+			'''
+			A magical staff that shoots weak, but fast bubbles.
+			It's used by a heroic cat witch. (Also Play Downpurr!)
+			'''
 	}
 
 	magebubblestaffm2: {
-		DisplayName: magebubblestaffm2
-		Tooltip: ""
+		DisplayName: Mage Torrent Staff
+		Tooltip:
+			'''
+			A staff that fires high damage bubbles at a slightly slower rate.
+			It's stronger than the Mage Bubble Staff, but doesn't fire as fast, and costs more mana per shot.
+			It's used by a heroic cat witch. (Also Play Downpurr!)
+			'''
+	}
+
+	dandaid: {
+		DisplayName: Dandaid
+		Tooltip:
+			'''
+			A cyan and soft blue package of bandaids.
+			A cast of cartoons would love this. 
+			[c/06C62B:+20 Life Regen.]
+			[c/FF0000:-8% Movement Speed.]
+			'''
+	}
+
+	rapperrepose: {
+		DisplayName: Rapper's Repose
+		Tooltip:
+			'''
+			A dark blue microphone that enhances magical talent.
+			A certain blue haired dumbass uses this. (Also play Friday Night Funkin'!)
+			[c/06C62B:+6 Mana Regen.]
+			[c/06C62B:-12% Mana Cost.]
+			[c/FF0000:-6% Movement Speed.]
+			'''
+	}
+
+	eggiri: {
+		DisplayName: Eggiri
+		Tooltip:
+			'''
+			An Eggy, fishy treat that is often confused for a
+			jelly doughnut. This is not a jelly doughnut.
+			[c/06C62B:+22% Summon Damage.]
+			[c/06C62B: +4 Minion Slots.]
+			[c/06C62B: Reduced Healing Potion Delay.]
+			[c/7E29A0:Attacks cause enemies to become coated in egg, lowering their defenses.]
+			'''
+	}
+
+	essencesmither: {
+		DisplayName: Essence Smither
+		Tooltip:
+			'''
+			Used in Essence Crafting for certain acccessories.
+			Can be used to make sugar from fruit, and refine it into Magic Powder.
+			Used to craft Magic Candies. 
+			'''
 	}
 }
 
@@ -439,3 +489,5 @@ Projectiles: {
 	magebubble.DisplayName: magebubble
 	magebubble2.DisplayName: magebubble2
 }
+
+Tiles.essencesmither.MapEntry: essencesmither

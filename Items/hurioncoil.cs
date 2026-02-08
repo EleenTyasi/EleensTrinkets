@@ -14,7 +14,7 @@ namespace eleenstrinkets.Items
         {
             CreateRecipe()
                 .AddIngredient(ItemID.Gel, 15)
-                .AddIngredient(RecipeGroupID.IronBar, 1)
+                .AddIngredient(RecipeGroupID.IronBar, 1) //why does this not exist for the hardmode ores. tmodloader pls
                 .AddIngredient(ItemID.WaterBucket, 1)
                 .AddIngredient(ItemID.FallenStar, 3)
                 .AddCondition(Condition.NearWater)

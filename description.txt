@@ -1,81 +1,38 @@
 Eleen's Trinkets is a mod that adds new accessories to Terraria. 
-	- I've noticed in the comments that some were wondering if Calamity is required. No.
-	- It's *compatible*; It's *encouraged*; It's *recommended*; but it's not *required*.
 
-Ever wanted to have a little more fun with accessories that aren't just stat boosts?
-Ever wanted to have some risks?
-Want to become a hypertank?
-Want to become a glass cannon?
-Well, Eleen's Trinkets: Tradeoffs and Triumphs is here!
+41 unique items with quirks and tradeoffs.
+It comes with:
+- 1 Material
+- 1 Hat
+- 39 Accessories.
 
+... And more to come!
 
-I found that there wasn't very many accessories that have upsides and downsides, so I decided to make some!
-These accessories are meant to aid in high-difficulty packs, but also provide a fair and balanced way of getting a little silly with things.
-These accessories are also, typically available before hardmode! It's also likely that it won't match Terraria's Art style, as all accessories are made by hand. 
-
-Plus, All accessories are craftable using vanilla materials! 
-I noticed there was a lack of accessories with downsides, with good upsides.
-These 20 accessories are meant to fill that gap, and provide a little more variety to the game.
-Here's some examples of the accessories you can get:
- - Pink Regrow Bloon: Lowers your maximum life by a percentage, but gives immense health regeneration.
- - Aquaveil: Raises your defense, Mana and magical damage! It's not always tradeoffs!
- - Esthrainio Toxin Vial: Lowers your melee damage and Maximum Life, but buffs your mana, ranged damage and crit, and magic damage and crit!
- - Hurion Coil: Gives you a spiffy and fast extra jump; and allows you to swim in water. 
- And many more!
-
-Some accessories are references to other games, while others are more unique. 
-For version 1.0, I sprited all the sprites by hand, as well as coded them all by myself.
-I suggest you have a recipe browser, as the recipes are kinda important! 
-
-
-I highly reccomend the three toxin vials! They add benefits for playing multiple classes! 
-	- you'll need the capsules; no summoner toxin because i don't know what would be a good tradeoff for it
-	- hey; im a plushie. i dont know everything.
-	- maybe suggest stats, and maybe you'll see it.
-If you have any suggestions, please let me know! I'm always looking for new ideas!
-(Suggestions may get added in future updates; strong preferences for options that are references to other games!)
-CHALLENGE: First person to Beat Legendary Mode while using the accessories that lower your maximum life, and provide visual proof to get an accessory you have a concept for added into the mod! (I've heard that the minimum life you can have is a whopping 27. Good luck.)
-Big thanks to the TML Discord for helpin' me with understanding how to code in feckin' C#!
-
-Future updates may include more accessories. It may lean further into going into hardmode, Or maybe adding compatibility with Calamity. I started work on this mod two days ago. (as of November 2023; it's a long while ago now) I LEARNED C#. TO MAKE. THIS. MOD. 
-I encourage you to take this mod's balance as... questionable. It's not meant to be taken terribly seriously, but it's not a joke mod either. It provides a niche that I wanted to press onto. 
-Once I get more of a handle on how to make mods, there might be bosses or ores ; but for now, I'm just gonna stick to accessories.
+- This mod is Open Source as it lets folks see the code.
+- Issues should be reported on the Steam Discussions, thanks!
 
 Source Code: 
 https://github.com/EleenTyasi/EleensTrinkets
 Made with Love and Sheer Bisexual Tension by Eleen.
 
 CHANGE LOG:
-1.8.0: Armor Experiment 1 - The Cat Witch Bonnet!
-    - Added the Cat Witch Bonnet
-      - Added the Cat Witch Bonnet's recipe
-	  - CWB is a Downpurr reference. 
-	  - It uses the Stardust Kitty as a material.
-	  - It's NOT AN ACCESSORY!? 
-	  - It's a hat that buffs magic.
-	- Updated Mod Icon. Hi! It's close up.
-	- Updated Localization file.
-	- It's Open Source. Finally. (everything is HERE!)
-CREDITS:
-Eleen: Pretty much everything.
-Intersloth: Henry Stickmin, Concept for the "nRG" accessory.
-TrampolineTales: Luck be a Landlord, Concept for the design of the capsule accessories.
-NinjaKiwi: Bloons TD series, Concept for the "Pink Regrow Bloon" accessory.
-Re-Logic: Terraria. Did I really need to say this?
-	- Eleen add more details
-Sonic Team: Puyo Puyo Series, Concept for the "Purple Puyo" accessory.
-	- make a remake of dr robotnik's mean bean machine. cowards.
-Square Enix: Final Fantasy Series, Concept for two accessories; "Protect Sigil" and "Aquaveil".
-TModLoader Team: TModLoader, the modding API that made this possible.
-KupoGames: Epic Battle Fantasy Series, Concept for the Nolegs Badge.
-Studio Nevermore: Downpurr, Concept for the Stardust Kitty.
-Rareware: Banjo Kazooie, Concept for the Bear's Boon and Mini Globo.
-Microsoft: Blinx the Time Sweeper, Concept for the FastForward Timegem.
+2.3.1:
+	- HUGE content update!
+		- More Accessories Added!
+		- Accessories based on Dandy's World and Friday Night Funkin' now available.
+	- Bug bounty content coming soon
 
-Special thanks to y'all! I hope you enjoy the mod.
- - actual special thanks to those of you who post in the discussions
-    - i was made aware of bugs and rebalances that needed to be done
-    - i appreciate you guys.
+# CREDITS:
+Eleen (Mod Artist, Coder, Founder, yeah, basically everything here was me lol.)
+TModLoader Team and Re-Logic (Kudos for TML and Relogic! <3)
+Intersloth, TrampolineTales, NinjaKiwi, Sonic Team, Square Enix, KupoGames, Studio Nevermore, 
+Rareware, Microsoft, BlushCrunch Studios, The Funkin Team:
+(Look these guys up, probably you already know a few, but these guys made the games I referenced!)
+((and, hey please don't sue me; just pass a message, and i'll take the accessory i made out if ya want))
+(((all accessories will be made with respect; i ain't no fool to take credit for the original ideas)))
+
+# Special Thanks:
+To you! I enjoy makin' content for Terraria, and I'm glad that folks enjoy my silly mod.
 
 Psst... wanna know a secret?
 1. The "Strategy Guide" accessory is a reference to the Terraria Wiki. But you probably already knew that.

@@ -28,10 +28,10 @@ namespace eleenstrinkets.Items
         // Update the accessory to 
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
-            player.GetDamage(DamageClass.Ranged) += 0.15f;
+            player.GetDamage(DamageClass.Ranged) += 0.05f;
             player.GetAttackSpeed(DamageClass.Ranged) += 0.30f;
-            player.GetDamage(DamageClass.Magic) += 0.15f;
-            player.manaCost -= 0.15f;
+            player.GetDamage(DamageClass.Magic) += 0.05f;
+            player.manaCost -= 0.20f;
             player.ammoCost80 = true;
         }
 

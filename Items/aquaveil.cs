@@ -35,7 +35,7 @@ namespace eleenstrinkets.Items
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
             player.GetDamage(DamageClass.Magic) += 0.06f;
-            player.statDefense += 5;
+            player.statDefense += 3;
             player.statManaMax2 += 20;
         }
 
