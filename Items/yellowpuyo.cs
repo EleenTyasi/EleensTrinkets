@@ -29,6 +29,7 @@ namespace eleenstrinkets.Items
             Item.height = 40;
             Item.rare = 4;
             Item.accessory = true;
+            Item.value = 1200;
         }
 
         public override void UpdateAccessory(Player player, bool hideVisual)

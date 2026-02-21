@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\dimiandaraseal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\dimiandaraseal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|c:\\users\\mario\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\eleenstrinkets\\items\\bluepuyo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6E28512-B864-41DD-9A04-3D9B7C93BD72}|eleenstrinkets.csproj|solutionrelative:items\\bluepuyo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -142,7 +138,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "en-US_Mods.eleenstrinkets.hjson",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Localization\\en-US_Mods.eleenstrinkets.hjson",
               "RelativeDocumentMoniker": "Localization\\en-US_Mods.eleenstrinkets.hjson",
@@ -155,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "pepperbladenm.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\weapons\\pepperbladenm.cs",
               "RelativeDocumentMoniker": "Items\\weapons\\pepperbladenm.cs",
@@ -168,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "pepperbladehm.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\weapons\\pepperbladehm.cs",
               "RelativeDocumentMoniker": "Items\\weapons\\pepperbladehm.cs",
@@ -180,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "abberantlightshard.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\abberantlightshard.cs",
               "RelativeDocumentMoniker": "Items\\abberantlightshard.cs",
@@ -192,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "essencesmither.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\tiles\\essencesmither.cs",
               "RelativeDocumentMoniker": "tiles\\essencesmither.cs",
@@ -204,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "catwitchbonnet.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\Armor\\catwitchbonnet.cs",
               "RelativeDocumentMoniker": "Items\\Armor\\catwitchbonnet.cs",
@@ -218,11 +214,11 @@
         },
         {
           "DockedWidth": 382,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "rapperrepose.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\rapperrepose.cs",
               "RelativeDocumentMoniker": "Items\\rapperrepose.cs",
@@ -236,20 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dimiandaraseal.cs",
-              "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\dimiandaraseal.cs",
-              "RelativeDocumentMoniker": "Items\\dimiandaraseal.cs",
-              "ToolTip": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\dimiandaraseal.cs",
-              "RelativeToolTip": "Items\\dimiandaraseal.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T11:16:53.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "redpuyo.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\redpuyo.cs",
               "RelativeDocumentMoniker": "Items\\redpuyo.cs",
@@ -262,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "yellowpuyo.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\yellowpuyo.cs",
               "RelativeDocumentMoniker": "Items\\yellowpuyo.cs",
@@ -275,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "purplepuyo.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\purplepuyo.cs",
               "RelativeDocumentMoniker": "Items\\purplepuyo.cs",
@@ -288,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "protectglyph.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\protectglyph.cs",
               "RelativeDocumentMoniker": "Items\\protectglyph.cs",
@@ -301,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "greenpuyo.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\greenpuyo.cs",
               "RelativeDocumentMoniker": "Items\\greenpuyo.cs",
@@ -314,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "bluepuyo.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\bluepuyo.cs",
               "RelativeDocumentMoniker": "Items\\bluepuyo.cs",
@@ -327,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "kitsune.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Content\\npcs\\shopkeep\\kitsune.cs",
               "RelativeDocumentMoniker": "Content\\npcs\\shopkeep\\kitsune.cs",
@@ -340,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "strategyguide.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\strategyguide.cs",
               "RelativeDocumentMoniker": "Items\\strategyguide.cs",
@@ -353,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "eleenstrinkets",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\eleenstrinkets.csproj",
               "RelativeDocumentMoniker": "eleenstrinkets.csproj",
@@ -365,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "description.txt",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\description.txt",
               "RelativeDocumentMoniker": "description.txt",
@@ -378,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "plushiepaw.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\plushiepaw.cs",
               "RelativeDocumentMoniker": "Items\\plushiepaw.cs",
@@ -390,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "nrg.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\nrg.cs",
               "RelativeDocumentMoniker": "Items\\nrg.cs",
@@ -402,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "aquaveil.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\aquaveil.cs",
               "RelativeDocumentMoniker": "Items\\aquaveil.cs",
@@ -415,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "build.txt",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\build.txt",
               "RelativeDocumentMoniker": "build.txt",
@@ -428,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "liarslyre.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\liarslyre.cs",
               "RelativeDocumentMoniker": "Items\\liarslyre.cs",
@@ -440,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "regrowbloon.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\regrowbloon.cs",
               "RelativeDocumentMoniker": "Items\\regrowbloon.cs",
@@ -452,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "bearboon.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\bearboon.cs",
               "RelativeDocumentMoniker": "Items\\bearboon.cs",
@@ -464,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "astralorb.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\astralorb.cs",
               "RelativeDocumentMoniker": "Items\\astralorb.cs",
@@ -476,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "genesisband.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\genesisband.cs",
               "RelativeDocumentMoniker": "Items\\genesisband.cs",
@@ -488,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "irateicosohedron.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\irateicosohedron.cs",
               "RelativeDocumentMoniker": "Items\\irateicosohedron.cs",
@@ -500,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "massrock.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\massrock.cs",
               "RelativeDocumentMoniker": "Items\\massrock.cs",
@@ -512,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "merainiotoxinvial.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\merainiotoxinvial.cs",
               "RelativeDocumentMoniker": "Items\\merainiotoxinvial.cs",
@@ -524,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "eggiri.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\eggiri.cs",
               "RelativeDocumentMoniker": "Items\\eggiri.cs",
@@ -536,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "dandaid.cs",
               "DocumentMoniker": "C:\\Users\\Mario\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\eleenstrinkets\\Items\\dandaid.cs",
               "RelativeDocumentMoniker": "Items\\dandaid.cs",

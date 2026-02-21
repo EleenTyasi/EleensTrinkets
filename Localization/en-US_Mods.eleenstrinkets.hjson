@@ -483,6 +483,26 @@ Items: {
 			Used to craft Magic Candies. 
 			'''
 	}
+
+	pepperbladenm: {
+		DisplayName: Pepper Blade
+		Tooltip:
+			'''
+			A spicy pepper, meant for bashing your foes into hot-sauce. (Play Flavor Frenzy!)
+			[c/7E29A0:Attacks from this weapon cause your foes to light ablaze for 3 seconds.]
+			[c/FF0000:This weapon swings slower than usual.]
+			'''
+	}
+
+	pepperbladehm: {
+		DisplayName: Superspicy Pepper Blade
+		Tooltip:
+			'''
+			This superly spicy pepper causes more pain when its capsaicin gets in your foes eyes.
+			It HURTS to get hit by. Seriously. (Play Flavor Frenzy!)
+			[c/7E29A0:Attacks from this weapon cause your foes to light ablaze for 6 seconds.]
+			'''
+	}
 }
 
 Projectiles: {
@@ -491,3 +511,35 @@ Projectiles: {
 }
 
 Tiles.essencesmither.MapEntry: essencesmither
+
+NPCs: {
+	Kitsune: {
+		DisplayName: Kitsune
+
+		Dialogue: {
+			Standard1: I got some crap you might be interested in.
+			Standard2: Eleen better pay me for going here...
+			Standard3: Hey! Buy somethin' will ya?!
+			Standard4: Subscribe to MyrajusEleen on tw- oh, sorry.
+			Standard5: Hm, yes. Items. You got *The Goods:tm:*?
+		}
+
+		TownNPCMood: {
+			Content: I'm fine, I guess.
+			NoHome: Why do I not have a place to rest? That sucks.
+			FarFromHome: Uh... Hey, where the hell am i?
+			LoveSpace: It's a little lonely, but it's comfortable.
+			DislikeCrowded: It's... a little cramped, but fine.
+			HateCrowded: Eh... there's way too many people here.
+			LoveBiome: Hell yeah! I love the snow!!
+			LikeBiome: Wow! The Hallow! It's pretty, shame it's trying to kill us...
+			DislikeBiome: Not too thrilled being this close to the dungeon.
+			HateBiome: This desert's heat is too much for myself. Can you PLEASE move me away?!
+			LoveNPC: A fellow fox friend! {NPCName}'s super kind.
+			LikeNPC: Big weapons are my favorite, especially what {NPCName} has!
+			HateNPC: If I see one single inch of that tax collector, I'm going to raise the age rating.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+}
